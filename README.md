@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **amrmafalani@yahoo.com**
 
-- 📄 Know more about me [https://iamr.dev/](iamr.dev/)
+- 📄 Know more about me [iamr.dev/](iamr.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
