@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/RbvJIOU.gif)https://imgur.com/a/hsLeczj
+![MasterHead](https://i.imgur.com/RbvJIOU.gif)
 <h1 align="center">Hi 👋, I'm iPixelDev</h1>
 <h3 align="center">I am a Software Engineering student.</h3>
 
