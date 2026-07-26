@@ -12,8 +12,8 @@
 
 - 📫 Reach me at **amrmafalani@yahoo.com**
 
-- 📄 Know more about me [iamr.dev/](iamr.dev/)
-
+- 📄 Know more about me: [iamr.dev](https://iamr.dev/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iPixelDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amrmafalani" height="30" width="40" /></a>
